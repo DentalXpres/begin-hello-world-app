@@ -4,7 +4,7 @@ let body = `
 <html lang=en>
   <head>
     <meta charset=utf-8>
-    <title>Hi!</title>
+    <title>Hola!</title>
     <link rel="stylesheet" href="https://static.begin.app/starter/default.css">
     <link href="data:image/x-icon;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" rel="icon" type="image/x-icon">
   </head>
@@ -12,7 +12,7 @@ let body = `
 
     <h1 class="center-text">
       <!-- ↓ Change "Hello world!" to something else and head on back to Begin! -->
-      Hello JAH eres el mejor dev del mundo!!
+      Hello JAH eres el mejor dev del mundo de Apps isomorficas!!
     </h1>
 
     <p class="center-text">
